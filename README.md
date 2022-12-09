@@ -16,9 +16,8 @@ Users should be able to:
 ### Links
 
 - Solution URL: (https://github.com/ahmedZ0k/Product-preview-card-component-)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: (https://ahmedz0k.github.io/Product-preview-card-component-/)
 
-## My process
 
 ### Built with
 
@@ -26,6 +25,9 @@ Users should be able to:
 - CSS custom properties
 - Flexbox
 
+### Usefull Article
+
+- https://www.joshwcomeau.com/css/surprising-truth-about-pixels-and-accessibility/
 
 ## Author
 
